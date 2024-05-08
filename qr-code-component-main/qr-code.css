@@ -20,10 +20,9 @@ body {
 }
 div {
   background-color: var(--color-White);
-  margin-top: 50px;
+  margin-top: 70px;
   padding: 10px;
   border-radius: 20px;
-  margin: 1.075em;
 }
 img {
   border-radius: 20px;
@@ -44,5 +43,4 @@ p {
   text-align: center;
   color: var(--Grayish-blue);
   font-weight: 400;
-  margin: 10px;
 }
